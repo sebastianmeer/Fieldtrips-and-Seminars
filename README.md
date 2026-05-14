@@ -1,6 +1,6 @@
 # Fieldtrips and Seminars
 
-Static HTML and Tailwind-styled e-portfolio based on the referenced Google Sites format.
+Static HTML and Tailwind-styled e-portfolio for IT Fieldtrips and Seminars final project.
 
 ## Structure
 
